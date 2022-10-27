@@ -1,0 +1,330 @@
+h1, h2, p {
+  font-family: 'Yeseva One', cursive;
+  color: #FFF1EB;
+}
+p {
+  font-size: 40px;
+  line-height: 46px;
+}
+.first {
+  position: relative;
+}
+.headline {
+  position: absolute;
+  font-size: 175px;
+  top: 330px;
+  left: 226px;
+}
+.flowers {
+  width: 987px;
+  position: relative;
+  top: 45px;
+  left: 200px;
+}
+.firstbow {
+  position: absolute;
+  top: 635px;
+}
+.bow {
+  width: 100%;
+}
+.by {
+  position: absolute;
+  right: 156px;
+  bottom: 115px;
+}
+.history {
+  position: relative;
+  top: 80px;
+  height: 1975px;
+}
+.one {
+  position: absolute;
+  top: 150px;
+  left: 75px;
+}
+.arrow1 {
+  position: absolute;
+  top: 350px;
+  width: 580px;
+  left: 158px;
+}
+.x {
+  position: absolute;
+  width: 510px;
+  top: 319px;
+  right: 90px;
+}
+.o {
+  position: absolute;
+  width: 346px;
+  top: 735px;
+  left: 75px;
+}
+.two {
+  position: absolute;
+  top: 800px;
+  right: 88px;
+}
+.arrow2 {
+  width: 275px;
+  position: absolute;
+  top: 985px;
+  left: 460px;
+}
+.three {
+  position: absolute;
+  top: 1390px;
+  left: 75px;
+}
+.envelope {
+  position: absolute;
+  width: 655px;
+  top: 1235px;
+  left: 785px;
+}
+.white {
+  position: relative;
+  background-color: #FFF1EB;
+  height: 830px;
+}
+.yes {
+  height: 830px;
+}
+.yes h2{
+  position: absolute;
+  color: #461220;
+  font-size: 272px;
+  top: 250px;
+  left: 148px;
+}
+.yes p {
+  position: absolute;
+  color: #461220;
+  margin: 0 539px;
+  top: 737px;
+}
+.lublu {
+  position: relative;
+  height: 1429px;
+}
+.eva {
+  position: absolute;
+  height: 834px;
+  top: 448px;
+}
+.lublu h2{
+  position: absolute;
+  font-size: 228px;
+}
+.contrast {
+  position: absolute;
+  top: 145px;
+  left: 282px;
+}
+.l {
+  top: 258px;
+  left: 75px;
+}
+.circle1 {
+  position: absolute;
+  width: 166px;
+  top: 195px;
+  left: 82px;
+}
+.u {
+  top: 502px;
+  left: 333px;
+}
+.b {
+  top: 746px;
+  left: 663px;
+}
+.circle2 {
+  position: absolute;
+  width: 114px;
+  top: 726px;
+  left: 735px;
+}
+.l2 {
+  top: 990px;
+  right: 387px;
+}
+.circle3 {
+  position: absolute;
+  width: 114px;
+  top: 1104px;
+  left: 853px;
+}
+.u2 {
+  top: 1234px;
+  right: 75px;
+}
+.corners {
+  position: absolute;
+  top: 1028px;
+  left: 322px;
+}
+.hearts {
+  position: relative;
+  height: 1880px;
+}
+.hearts img {
+  width: 1155px;
+  position: relative;
+  margin-bottom: 115px;
+}
+.ж {
+  margin-top: 240px;
+  left: 75px;
+}
+.щ {
+  left: 214px;
+}
+.m {
+  left: 75px;
+}
+.d {
+  left: 214px;
+}
+.languages {
+  position: relative;
+  height: 830px;
+}
+.languages h2 {
+  position: absolute;
+  font-size: 272px;
+  top: 239px;
+  left: 568px;
+}
+.languages p {
+  position: absolute;
+  text-align: center;
+}
+.lang {
+  font-size: 64px;
+  top: 494px;
+  left: 596px;
+}
+.support {
+  top: 170px;
+  left: 449px;
+}
+.hz {
+  left: 289px;
+  top: 589px;
+}
+.candybox {
+  position: relative;
+  height: 476px;
+}
+.candybox img {
+  position: absolute;
+  width: 1083px;
+  left: 75px;
+}
+.lovebox {
+  position: absolute;
+  font-size: 80px;
+  top: 203px;
+  left: 230px;
+}
+.milk {
+  position: absolute;
+  color: #FCB9B2;
+  font-size: 30px;
+  top: 260px;
+  left: 231px;
+}
+.weight {
+  position: absolute;
+  color: #6B242B;
+  font-size: 23px;
+  top: 400px;
+  left: 115px;
+}
+.bouquet {
+  position: relative;
+}
+.bouquet img {
+  width: 1341px;
+}
+.bouquet p {
+  color: #461220;
+}
+.honey {
+  position: absolute;
+  left: 894px;
+  top: 480px;
+}
+.txt {
+  position: absolute;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  top: 549px;
+  left: 741px;
+}
+.crush {
+  position: absolute;
+  font-size: 30px;
+  right: 181px;
+  top: 895px;
+}
+.gift {
+  position: relative;
+  width: 813px;
+  left: 642px;
+  top: -130px;
+}
+.ticket {
+  position: relative;
+  width: 1193px;
+  left: 75px;
+  top: 115px;
+}
+.jar {
+  position: relative;
+  width: 1068px;
+}
+.card {
+  position: relative;
+  height: 982px;
+  top: 115px;
+}
+.card img {
+  position: absolute;
+  width: 1067px;
+  left: 186px;
+}
+.card h1 {
+  position: absolute;
+  color: #461220;
+  font-size: 96px;
+  text-align: center;
+  top: 190px;
+  left: 445px;
+}
+.card p {
+  color: #461220;
+  position: absolute;
+  text-align: right;
+  left: 549px;
+  top: 568px;
+  line-height: 63px;
+}
+.podval {
+  position: relative;
+  top: 430px;
+  background-color: #FCB9B2;
+  height: 162px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.podval p {
+  color: #461220;
+  margin-left: 75px;
+  margin-right: 75px;
+}
