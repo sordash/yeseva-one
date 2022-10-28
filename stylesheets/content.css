@@ -90,19 +90,19 @@ p {
 }
 .yes {
   height: 830px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .yes h2{
   position: absolute;
   color: #461220;
   font-size: 272px;
-  top: 250px;
-  left: 148px;
 }
 .yes p {
   position: absolute;
   color: #461220;
-  margin: 0 539px;
-  top: 737px;
+  bottom: 70px;
 }
 .lublu {
   position: relative;
@@ -190,12 +190,13 @@ p {
 .languages {
   position: relative;
   height: 830px;
+  display: flex;
+  justify-content: center;
 }
 .languages h2 {
   position: absolute;
   font-size: 272px;
   top: 239px;
-  left: 568px;
 }
 .languages p {
   position: absolute;
@@ -204,14 +205,11 @@ p {
 .lang {
   font-size: 64px;
   top: 494px;
-  left: 596px;
 }
 .support {
   top: 170px;
-  left: 449px;
 }
 .hz {
-  left: 311px;
   top: 589px;
 }
 .candybox {
